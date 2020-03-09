@@ -1,0 +1,2318 @@
+fileFormatVersion: 2
+guid: d10d242059ba8d94b9adbbd1bcfa32c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8899195331059325887
+    second: Atlas_Mobile_Compressed_0
+  - first:
+      213: -5820891926928530422
+    second: Atlas_Mobile_Compressed_1
+  - first:
+      213: 8339073005478761738
+    second: Atlas_Mobile_Compressed_2
+  - first:
+      213: 2333470027096343273
+    second: Atlas_Mobile_Compressed_3
+  - first:
+      213: -4039074338647603096
+    second: Atlas_Mobile_Compressed_4
+  - first:
+      213: -5044000128021035128
+    second: Atlas_Mobile_Compressed_5
+  - first:
+      213: -1236091041022012289
+    second: Atlas_Mobile_Compressed_6
+  - first:
+      213: -3909827063971302489
+    second: Atlas_Mobile_Compressed_7
+  - first:
+      213: 8609774294039243726
+    second: Atlas_Mobile_Compressed_8
+  - first:
+      213: 8309216540215499265
+    second: Atlas_Mobile_Compressed_9
+  - first:
+      213: 8812244751908347666
+    second: Atlas_Mobile_Compressed_10
+  - first:
+      213: 6444793247297672825
+    second: Atlas_Mobile_Compressed_11
+  - first:
+      213: -3844788762595828480
+    second: Atlas_Mobile_Compressed_12
+  - first:
+      213: -6720572665880165642
+    second: Atlas_Mobile_Compressed_13
+  - first:
+      213: -824813856912550160
+    second: Atlas_Mobile_Compressed_14
+  - first:
+      213: 5918385368450368363
+    second: Atlas_Mobile_Compressed_15
+  - first:
+      213: -7479549439227936181
+    second: Atlas_Mobile_Compressed_16
+  - first:
+      213: 7730119886863535246
+    second: Atlas_Mobile_Compressed_17
+  - first:
+      213: -8798577726979956498
+    second: Atlas_Mobile_Compressed_18
+  - first:
+      213: 3620427702306026051
+    second: Atlas_Mobile_Compressed_19
+  - first:
+      213: -8904166929569529269
+    second: Atlas_Mobile_Compressed_20
+  - first:
+      213: -4933863439454573824
+    second: Atlas_Mobile_Compressed_21
+  - first:
+      213: 5922730807971042486
+    second: Atlas_Mobile_Compressed_22
+  - first:
+      213: -2457139397880825158
+    second: Atlas_Mobile_Compressed_23
+  - first:
+      213: -1249377764639587914
+    second: Atlas_Mobile_Compressed_24
+  - first:
+      213: 6272835994777777031
+    second: Atlas_Mobile_Compressed_25
+  - first:
+      213: 7755173633971525583
+    second: Atlas_Mobile_Compressed_26
+  - first:
+      213: -129818841526054622
+    second: Atlas_Mobile_Compressed_27
+  - first:
+      213: -3277047055847398544
+    second: Atlas_Mobile_Compressed_28
+  - first:
+      213: -3975027030771205864
+    second: Atlas_Mobile_Compressed_29
+  - first:
+      213: 6379853621766761475
+    second: Atlas_Mobile_Compressed_30
+  - first:
+      213: 1855039052638165227
+    second: Atlas_Mobile_Compressed_31
+  - first:
+      213: 8945350860023427359
+    second: Atlas_Mobile_Compressed_32
+  - first:
+      213: -7569087910404418162
+    second: Atlas_Mobile_Compressed_33
+  - first:
+      213: 7651253634148076744
+    second: Atlas_Mobile_Compressed_34
+  - first:
+      213: -3865644777876111773
+    second: Atlas_Mobile_Compressed_35
+  - first:
+      213: 6220987929256739031
+    second: Atlas_Mobile_Compressed_36
+  - first:
+      213: -3661599795811929645
+    second: Atlas_Mobile_Compressed_37
+  - first:
+      213: 5060348703913595665
+    second: Atlas_Mobile_Compressed_38
+  - first:
+      213: -1341410699301382956
+    second: Atlas_Mobile_Compressed_39
+  - first:
+      213: 4703512548158401596
+    second: Atlas_Mobile_Compressed_40
+  - first:
+      213: 2024246587466674496
+    second: Atlas_Mobile_Compressed_41
+  - first:
+      213: -2862815481869541181
+    second: Atlas_Mobile_Compressed_42
+  - first:
+      213: -5382749180265860539
+    second: Atlas_Mobile_Compressed_43
+  - first:
+      213: 5660216733716648401
+    second: Atlas_Mobile_Compressed_44
+  - first:
+      213: 828258251268713562
+    second: Atlas_Mobile_Compressed_45
+  - first:
+      213: 7617812931164519258
+    second: Atlas_Mobile_Compressed_46
+  - first:
+      213: -7513585792160350394
+    second: Atlas_Mobile_Compressed_47
+  - first:
+      213: -7580582523067631663
+    second: Atlas_Mobile_Compressed_48
+  - first:
+      213: 8326780662802675451
+    second: Atlas_Mobile_Compressed_49
+  - first:
+      213: 1786598970457156006
+    second: Atlas_Mobile_Compressed_50
+  - first:
+      213: 6434758002520676932
+    second: Atlas_Mobile_Compressed_51
+  - first:
+      213: -7453557556155026617
+    second: Atlas_Mobile_Compressed_52
+  - first:
+      213: -221249834100929840
+    second: Atlas_Mobile_Compressed_53
+  - first:
+      213: 7804131863969574394
+    second: Atlas_Mobile_Compressed_54
+  - first:
+      213: 8195138220728799074
+    second: Atlas_Mobile_Compressed_55
+  - first:
+      213: -6454730127274775928
+    second: Atlas_Mobile_Compressed_56
+  - first:
+      213: -6295938716079177715
+    second: Atlas_Mobile_Compressed_57
+  - first:
+      213: -181755480147595455
+    second: Atlas_Mobile_Compressed_58
+  - first:
+      213: -7424485326867149579
+    second: Atlas_Mobile_Compressed_59
+  - first:
+      213: -2640633821693654342
+    second: Atlas_Mobile_Compressed_60
+  - first:
+      213: -420904448120633621
+    second: Atlas_Mobile_Compressed_61
+  - first:
+      213: -8404536141157950353
+    second: Atlas_Mobile_Compressed_62
+  - first:
+      213: 3764084102655204062
+    second: Atlas_Mobile_Compressed_63
+  - first:
+      213: -4305642051233402372
+    second: Atlas_Mobile_Compressed_64
+  - first:
+      213: -5272262112947079714
+    second: Atlas_Mobile_Compressed_65
+  - first:
+      213: 997361528849896114
+    second: Atlas_Mobile_Compressed_66
+  - first:
+      213: -4554874263673209539
+    second: Atlas_Mobile_Compressed_67
+  - first:
+      213: 6911849423741250248
+    second: Atlas_Mobile_Compressed_68
+  - first:
+      213: -33184100314064607
+    second: Atlas_Mobile_Compressed_69
+  - first:
+      213: -7030576722391740946
+    second: Atlas_Mobile_Compressed_70
+  - first:
+      213: -5398499731777733672
+    second: Atlas_Mobile_Compressed_71
+  - first:
+      213: 7760070794674451875
+    second: Atlas_Mobile_Compressed_72
+  - first:
+      213: -1523914735873943497
+    second: Atlas_Mobile_Compressed_73
+  - first:
+      213: -5979653864773545347
+    second: Atlas_Mobile_Compressed_74
+  - first:
+      213: -8463640171063958218
+    second: Atlas_Mobile_Compressed_75
+  - first:
+      213: 7492041180028837194
+    second: Atlas_Mobile_Compressed_76
+  - first:
+      213: -8239885418557341057
+    second: Atlas_Mobile_Compressed_77
+  - first:
+      213: 5957417122716670748
+    second: Atlas_Mobile_Compressed_78
+  - first:
+      213: 5410097829542548941
+    second: Atlas_Mobile_Compressed_79
+  - first:
+      213: 7131585590666918344
+    second: Atlas_Mobile_Compressed_80
+  - first:
+      213: -6446265542669106229
+    second: Atlas_Mobile_Compressed_81
+  - first:
+      213: -2733470001217956957
+    second: Atlas_Mobile_Compressed_82
+  - first:
+      213: -7770261427642849257
+    second: Atlas_Mobile_Compressed_83
+  - first:
+      213: 2546660613821141403
+    second: Atlas_Mobile_Compressed_84
+  - first:
+      213: -2434717187349079611
+    second: Atlas_Mobile_Compressed_85
+  - first:
+      213: -5587719500345766156
+    second: Atlas_Mobile_Compressed_86
+  - first:
+      213: -8771925864839267779
+    second: Atlas_Mobile_Compressed_87
+  - first:
+      213: 917527315894016981
+    second: Atlas_Mobile_Compressed_88
+  - first:
+      213: -8021297166708500494
+    second: Atlas_Mobile_Compressed_89
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1765
+        width: 158
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3244cd5ec0eb3149a8b57f86f358fea
+      internalID: 8899195331059325887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1958
+        width: 100
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c3c389c9b7ed249b8258f9df0d528b
+      internalID: -5820891926928530422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1970
+        width: 100
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16077100cd723664e9d681def1f021df
+      internalID: 8339073005478761738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1795
+        width: 224
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c4cb98372f49e41a4c921cd6e79f69
+      internalID: 2333470027096343273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1555
+        width: 246
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23800ff2bdb8ca408695ca5be8779bf
+      internalID: -4039074338647603096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1726
+        width: 101
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922fe8601cd7fe64caab3637104a8628
+      internalID: -5044000128021035128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_6
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1715
+        width: 103
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133566b0b39f2324c9afe344eb591760
+      internalID: -1236091041022012289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_7
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1727
+        width: 103
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32eecf3a68ee4b147959eabd539137b8
+      internalID: -3909827063971302489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_8
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1715
+        width: 205
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc65cd20857f5864390f99be0c190a23
+      internalID: 8609774294039243726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_9
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1600
+        width: 209
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d97b98921befe498e663a1ccc3a713
+      internalID: 8309216540215499265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1311
+        width: 247
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d0a46269b306049a54edda718cb66e
+      internalID: 8812244751908347666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1480
+        width: 171
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2fb28c49ed7fd47a2f8785f186f769
+      internalID: 6444793247297672825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_12
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1477
+        width: 227
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888b1ce45565e1a4293d1d4a7b387032
+      internalID: -3844788762595828480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_13
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1477
+        width: 101
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356ea6263badbdb409a8cf4b7b513c20
+      internalID: -6720572665880165642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_14
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1402
+        width: 223
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c71e088e5792e4098c5c5e896c3167
+      internalID: -824813856912550160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1059
+        width: 220
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746a039b0c737fd4d82471b71b47c6ed
+      internalID: 5918385368450368363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_16
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1236
+        width: 246
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbe583d4dd69e9468b8714f8239e8d8
+      internalID: -7479549439227936181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_17
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1235
+        width: 245
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50c240219567a244bc5b7830ee58367
+      internalID: 7730119886863535246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_18
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1235
+        width: 102
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44292168be4fc36489d991d59638f9e9
+      internalID: -8798577726979956498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_19
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1245
+        width: 100
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fc7b585461b1f44a4f369f4eb63e7a
+      internalID: 3620427702306026051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_20
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1227
+        width: 225
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043697e69e83f8949b308118e676aac1
+      internalID: -8904166929569529269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_21
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1227
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4494636f9f7cc044b228ee4d1032112
+      internalID: -4933863439454573824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_22
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1164
+        width: 215
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f7e0ddb6ffe9946810be89e494dc36
+      internalID: 5922730807971042486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_23
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1141
+        width: 197
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027b5597dcb994c4ea77fdc07b677820
+      internalID: -2457139397880825158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 975
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b905e62318344ff46ad9ba15617c60d0
+      internalID: -1249377764639587914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_25
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 973
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc6d511a692fd4479808876de83754f
+      internalID: 6272835994777777031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_26
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 986
+        width: 201
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c69d53ac3f32042b8a841776b6c3dc
+      internalID: 7755173633971525583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_27
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 986
+        width: 212
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669cbcabd30e1714ba6364e47090f3d8
+      internalID: -129818841526054622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_28
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1006
+        width: 235
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36156b28a6146c4699f5f30f085f3cd
+      internalID: -3277047055847398544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_29
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1001
+        width: 95
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dc3ff9d1aeefe46bf97da970e23ede
+      internalID: -3975027030771205864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_30
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1001
+        width: 230
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd72fc54d2c7604bbf6c230b2049d64
+      internalID: 6379853621766761475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_31
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 987
+        width: 224
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebb2cdb1dd7b1e46ab020e44b9c4ef9
+      internalID: 1855039052638165227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_32
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 932
+        width: 95
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38227754f95c1914b810383dba5d6809
+      internalID: 8945350860023427359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_33
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 932
+        width: 224
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75eb0f0aa71bcf9478d2a42658e606b3
+      internalID: -7569087910404418162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 723
+        width: 253
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c85ef6f7379364db517f7a82d22bb9
+      internalID: 7651253634148076744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 809
+        width: 250
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98711fceffb8ae1469af19ead6717faa
+      internalID: -3865644777876111773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_36
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 838
+        width: 231
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c5d396ed5b2364982db02a8ed3c893
+      internalID: 6220987929256739031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_37
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 758
+        width: 151
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0288ccf0f1d5784ba663a4779ae9a4c
+      internalID: -3661599795811929645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_38
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 758
+        width: 232
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6638431d19baaa8448f7ba6fc828f2bc
+      internalID: 5060348703913595665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_39
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 835
+        width: 103
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240e3addf9b67ec4f9332fa577282c07
+      internalID: -1341410699301382956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_40
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 847
+        width: 103
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd19c21b0a87044b8f6d86e7777653f
+      internalID: 4703512548158401596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_41
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 755
+        width: 163
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeee8ab68fa5fa41a8ba8ba5f132fc1
+      internalID: 2024246587466674496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_42
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 700
+        width: 101
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad5eda42d3acb9448e085195116fe5f
+      internalID: -2862815481869541181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_43
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 700
+        width: 94
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494c83c1aaa63ea4d8f2cb5851af5f5c
+      internalID: -5382749180265860539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_44
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 700
+        width: 130
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f5c386d36f6e546aaed0dd5a9fb0c9
+      internalID: 5660216733716648401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_45
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 724
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8366256d87bf641a82ee6abf5afd9a
+      internalID: 828258251268713562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_46
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 724
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ccdfee6868eb84d8ce0e4fdf683db1
+      internalID: 7617812931164519258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_47
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 592
+        width: 248
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a93570b4633a844cb0a36cac69d9e5b
+      internalID: -7513585792160350394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_48
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 507
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c103e43cf63394cb9d92d1d441f91a
+      internalID: -7580582523067631663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_49
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 588
+        width: 205
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d245487201ce1c64380960d0d7ea4d2c
+      internalID: 8326780662802675451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_50
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 588
+        width: 238
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea772a84fa9d154aa59479a67748794
+      internalID: 1786598970457156006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 468
+        width: 255
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd45260933b718c47811a875a337c739
+      internalID: 6434758002520676932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_52
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 469
+        width: 242
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7d9d37ed673fb42968eedb0605ef12
+      internalID: -7453557556155026617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_53
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 592
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99368d3cbe5e064a976b49760b3b9f0
+      internalID: -221249834100929840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_54
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 592
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f135605cf9a65e745af811c9ca8ef0bd
+      internalID: 7804131863969574394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_55
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 468
+        width: 236
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d10a4bddb1db3749ba7fbe8bec3fa86
+      internalID: 8195138220728799074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_56
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 508
+        width: 107
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0940ae2713ddaf247ac571d7220a02d2
+      internalID: -6454730127274775928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_57
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 508
+        width: 105
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cc379e08192664caa0b236052c2ac2
+      internalID: -6295938716079177715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_58
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 507
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fd2e8239393de4e99d3eb2de93f340
+      internalID: -181755480147595455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_59
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 507
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b58b993b88dc64d8474c2968f1e09b
+      internalID: -7424485326867149579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_60
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 505
+        width: 105
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83e948fc08bef54a925d5b8d685048b
+      internalID: -2640633821693654342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_61
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 505
+        width: 105
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c44fc57915d9574cb45d782e156d62f
+      internalID: -420904448120633621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_62
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 310
+        width: 245
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befafae44af8e3942b42ecf994e82c5c
+      internalID: -8404536141157950353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 212
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7aeafffb0c8d104a83e29cb532d0015
+      internalID: 3764084102655204062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_64
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 258
+        width: 253
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9062cbf7340b5444a66e4a40a57fd46
+      internalID: -4305642051233402372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_65
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 257
+        width: 253
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fd1347da68c164e86547527ec6e6c4
+      internalID: -5272262112947079714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_66
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 427
+        width: 100
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a38deb43eae6b4986138f5e7d3e045
+      internalID: 997361528849896114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_67
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 437
+        width: 100
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7f57a85cc391f44be1878828f413ba
+      internalID: -4554874263673209539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_68
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 254
+        width: 211
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2882db8bcfeb346879a489e6ef901b
+      internalID: 6911849423741250248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_69
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 227
+        width: 245
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a79d1b4c2b6394788a3bf5f4551041
+      internalID: -33184100314064607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_70
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 150
+        width: 138
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e57d9ebbddd844e947269a8f67800f
+      internalID: -7030576722391740946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_71
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 150
+        width: 86
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c1a038a793f814581b04a6d682ba22
+      internalID: -5398499731777733672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_72
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 342
+        width: 105
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb29414b1262b643bd16880c9d078cf
+      internalID: 7760070794674451875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_73
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 342
+        width: 105
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62636752034e9b1468f4933aa2546ff0
+      internalID: -1523914735873943497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_74
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 257
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33d260c3a2945f46aa64a49622bacf4
+      internalID: -5979653864773545347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_75
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 257
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880eca41d60cc004e827115da0b52684
+      internalID: -8463640171063958218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_76
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 227
+        width: 107
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba35644f90d36674c9618762f538ccb4
+      internalID: 7492041180028837194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_77
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 227
+        width: 105
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4717da5d1a075f94082e408f951d45fd
+      internalID: -8239885418557341057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 256
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120a5e654bb75c84bb1a44adff0a23cf
+      internalID: 5957417122716670748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_79
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2
+        width: 66
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c3d37e70ec99a4db6abd925c03ceab
+      internalID: 5410097829542548941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_80
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 3
+        width: 117
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1356d90a817c748a3af7fa8914a21a
+      internalID: 7131585590666918344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_81
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c16f4ed70e9ef48a1eaea0dc2932a2
+      internalID: -6446265542669106229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_82
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1
+        width: 241
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 111.5, y: 33}
+        - {x: 77.5, y: 73}
+        - {x: 22.5, y: 83}
+        - {x: -16.5, y: 118}
+        - {x: -36.5, y: 127}
+        - {x: -63.5, y: 127}
+        - {x: -38.5, y: 86}
+        - {x: -95.5, y: 56}
+        - {x: -120.5, y: 17}
+        - {x: -120.5, y: -45}
+        - {x: -112.5, y: -66}
+        - {x: -97.5, y: -90}
+        - {x: -62.5, y: -123}
+        - {x: -42.5, y: -127}
+        - {x: 22.5, y: -127}
+        - {x: 62.5, y: -121}
+        - {x: 86.5, y: -112}
+        - {x: 120.5, y: -60}
+        - {x: 120.5, y: 4}
+      tessellationDetail: 0.11
+      bones: []
+      spriteID: 42fab327ba8c2f643977785ffe2a63b1
+      internalID: -2733470001217956957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_83
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 2
+        width: 244
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff2fa3b0f6514642ae6e82ffdff0e51
+      internalID: -7770261427642849257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_84
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1
+        width: 250
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f69d73be3e39ac46a6b8901a64df51e
+      internalID: 2546660613821141403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_85
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 86
+        width: 107
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec62a53cafc29144894c955c2f8db99
+      internalID: -2434717187349079611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_86
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 86
+        width: 105
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64deeb6ecf762964ba0d8d20d68cb256
+      internalID: -5587719500345766156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_87
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1
+        width: 249
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2800ca1cd54ed74c84fa1184bf63211
+      internalID: -8771925864839267779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_88
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41528902496170f4092ba4588812b44e
+      internalID: 917527315894016981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Mobile_Compressed_89
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dd80a58029ee347ac7ee14d1858901
+      internalID: -8021297166708500494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
